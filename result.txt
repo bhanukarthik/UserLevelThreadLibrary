@@ -1,0 +1,64 @@
+Number of Kernel threads 1
+spinlock 0.02
+optimzed 0.01
+Number of Kernel threads 2
+spinlockCommand terminated by signal 11
+ 0.00
+optimzed 1.13
+Number of Kernel threads 3
+spinlock 2.20
+optimzed 5.71
+Number of Kernel threads 4
+spinlock 3.48
+optimzed 2.84
+Number of Kernel threads 5
+spinlockCommand terminated by signal 11
+ 0.00
+optimzed 9.02
+Number of Kernel threads 6
+spinlock 9.19
+optimzed 3.11
+Number of Kernel threads 7
+spinlock 68.03
+optimzed 1.59
+Number of Kernel threads 8
+spinlock 90.26
+optimzed 5.70
+Number of Kernel threads 9
+spinlock 114.42
+optimzed 7.25
+Number of Kernel threads 10
+spinlock 138.69
+optimzed 1.25
+Number of Kernel threads 11
+spinlock 251.23
+optimzed 8.12
+Number of Kernel threads 12
+spinlock 397.70
+optimzed 62.85
+Number of Kernel threads 13
+spinlock 356.70
+optimzed 8.47
+Number of Kernel threads 14
+spinlock 601.99
+optimzed 10.63
+Number of Kernel threads 15
+spinlock 600.09
+optimzed 36.67
+Number of Kernel threads 16
+spinlock 626.57
+optimzed 68.62
+Number of Kernel threads 17
+spinlockCommand terminated by signal 11
+ 0.00
+optimzed 27.67
+Number of Kernel threads 18
+spinlock 920.69
+optimzed 29.76
+Number of Kernel threads 19
+spinlock 1381.31
+optimzed 40.34
+Number of Kernel threads 20
+spinlock 1334.53
+optimzed^Z
+
